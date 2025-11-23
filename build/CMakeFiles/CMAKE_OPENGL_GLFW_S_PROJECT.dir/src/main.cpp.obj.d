@@ -1,8 +1,8 @@
-CMakeFiles/BlackHoleSimulator.dir/src/main.cpp.obj: \
+CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj: \
  C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\src\main.cpp \
  C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\src\config.h \
- C:/dev/vcpkg/installed/x64-windows/include/glad/glad.h \
- C:/dev/vcpkg/installed/x64-windows/include/KHR/khrplatform.h \
+ C:/msys64/ucrt64/include/glad/glad.h \
+ C:/msys64/ucrt64/include/KHR/khrplatform.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h C:/msys64/ucrt64/include/crtdefs.h \
  C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \

@@ -62,7 +62,7 @@ CMAKE_BINARY_DIR = C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/BlackHoleSimulator.dir/all
+all: CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -70,34 +70,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/BlackHoleSimulator.dir/clean
+clean: CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/BlackHoleSimulator.dir
+# Target rules for target CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir
 
 # All Build rule for target.
-CMakeFiles/BlackHoleSimulator.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BlackHoleSimulator.dir\build.make CMakeFiles/BlackHoleSimulator.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BlackHoleSimulator.dir\build.make CMakeFiles/BlackHoleSimulator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles --progress-num=1,2 "Built target BlackHoleSimulator"
-.PHONY : CMakeFiles/BlackHoleSimulator.dir/all
+CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles --progress-num=1,2,3 "Built target CMAKE_OPENGL_GLFW_S_PROJECT"
+.PHONY : CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/BlackHoleSimulator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/BlackHoleSimulator.dir/all
+CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 3
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 0
-.PHONY : CMakeFiles/BlackHoleSimulator.dir/rule
+.PHONY : CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/rule
 
 # Convenience name for target.
-BlackHoleSimulator: CMakeFiles/BlackHoleSimulator.dir/rule
-.PHONY : BlackHoleSimulator
+CMAKE_OPENGL_GLFW_S_PROJECT: CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/rule
+.PHONY : CMAKE_OPENGL_GLFW_S_PROJECT
 
 # clean rule for target.
-CMakeFiles/BlackHoleSimulator.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BlackHoleSimulator.dir\build.make CMakeFiles/BlackHoleSimulator.dir/clean
-.PHONY : CMakeFiles/BlackHoleSimulator.dir/clean
+CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/clean
+.PHONY : CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

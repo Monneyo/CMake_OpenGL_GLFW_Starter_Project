@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/main.cpp" "CMakeFiles/BlackHoleSimulator.dir/src/main.cpp.obj" "gcc" "CMakeFiles/BlackHoleSimulator.dir/src/main.cpp.obj.d"
+  "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/glad.c" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/glad.c.obj" "gcc" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/glad.c.obj.d"
+  "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/main.cpp" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -2,32 +2,21 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "type": "cppbuild",
-            "label": "C/C++: g++.exe build active file",
-            "command": "C:/msys64/ucrt64/bin/g++.exe",
+            "type": "shell",
+            "label": "CMake Build",
+            "command": "cmake",
             "args": [
-                "-fdiagnostics-color=always",
-                "-g",
-                "${file}",
-                "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-IC:/msys64/ucrt64/include",
-                "-LC:/msys64/ucrt64/lib",
-                "-lglfw3",
-                "-lopengl32",
-                "-lgdi32"
+                "--build",
+                "build"
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "${workspaceFolder}"
             },
-            "problemMatcher": [
-                "$gcc"
-            ],
+            "problemMatcher": ["$gcc"],
             "group": {
                 "kind": "build",
                 "isDefault": true
-            },
-            "detail": "compiler: C:/msys64/ucrt64/bin/g++.exe"
+            }
         }
     ]
 }
