@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                 "${workspaceFolder}/**",
+                "${workspaceFolder}/**",
+                "C:/dev/vcpkg/installed/x64-windows/include",
                 "C:/msys64/ucrt64/include"
             ],
             "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",

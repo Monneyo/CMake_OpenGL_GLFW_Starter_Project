@@ -1,0 +1,3 @@
+C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/build/CMakeFiles/BlackHoleSimulator.dir
+C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/build/CMakeFiles/edit_cache.dir
+C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/build/CMakeFiles/rebuild_cache.dir
