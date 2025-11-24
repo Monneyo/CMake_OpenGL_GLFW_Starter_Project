@@ -9,6 +9,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(CMAKE_OPENGL_GLFW_S_PROJECT 
     src/main.cpp
     src/glad.c
+    src/triangle.cpp
+    src/triangle.h
 )
 
 target_include_directories(CMAKE_OPENGL_GLFW_S_PROJECT PRIVATE 

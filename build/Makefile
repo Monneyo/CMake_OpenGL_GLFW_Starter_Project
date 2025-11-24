@@ -176,6 +176,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/triangle.obj: src/triangle.cpp.obj
+.PHONY : src/triangle.obj
+
+# target to build an object file
+src/triangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.obj
+.PHONY : src/triangle.cpp.obj
+
+src/triangle.i: src/triangle.cpp.i
+.PHONY : src/triangle.i
+
+# target to preprocess a source file
+src/triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.i
+.PHONY : src/triangle.cpp.i
+
+src/triangle.s: src/triangle.cpp.s
+.PHONY : src/triangle.s
+
+# target to generate assembly for a file
+src/triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.s
+.PHONY : src/triangle.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +215,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/triangle.obj
+	@echo ... src/triangle.i
+	@echo ... src/triangle.s
 .PHONY : help
 
 

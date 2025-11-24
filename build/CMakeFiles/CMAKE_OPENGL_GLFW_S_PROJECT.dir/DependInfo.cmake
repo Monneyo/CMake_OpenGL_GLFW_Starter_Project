@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/glad.c" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/glad.c.obj" "gcc" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/glad.c.obj.d"
   "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/main.cpp" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj" "gcc" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj.d"
+  "C:/Users/kkupf/OneDrive/Desktop/ProgrammingStuff/CMake_OpenGL_GLFW_S_Project/src/triangle.cpp" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.obj" "gcc" "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

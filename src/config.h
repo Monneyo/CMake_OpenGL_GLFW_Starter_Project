@@ -3,6 +3,12 @@
 #include <glad/glad.h>  // Now from vcpkg
 #include <GLFW/glfw3.h> // From MSYS2
 
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <string>
+#include <vector>
+
 const int WINDOW_WIDTH = 800;
 const int WINDOW_HEIGHT = 600;
 const char *WINDOW_TITLE = "Black Hole Simulator";

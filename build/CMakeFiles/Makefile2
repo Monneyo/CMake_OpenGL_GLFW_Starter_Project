@@ -80,12 +80,12 @@ clean: CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/clean
 CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMAKE_OPENGL_GLFW_S_PROJECT.dir\build.make CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles --progress-num=1,2,3 "Built target CMAKE_OPENGL_GLFW_S_PROJECT"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles --progress-num=1,2,3,4 "Built target CMAKE_OPENGL_GLFW_S_PROJECT"
 .PHONY : CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kkupf\OneDrive\Desktop\ProgrammingStuff\CMake_OpenGL_GLFW_S_Project\build\CMakeFiles 0
 .PHONY : CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/rule

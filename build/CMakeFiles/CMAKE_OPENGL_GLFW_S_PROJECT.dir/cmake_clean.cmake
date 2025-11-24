@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/glad.c.obj.d"
   "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj"
   "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/main.cpp.obj.d"
+  "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.obj"
+  "CMakeFiles/CMAKE_OPENGL_GLFW_S_PROJECT.dir/src/triangle.cpp.obj.d"
   "libCMAKE_OPENGL_GLFW_S_PROJECT.dll.a"
 )
 
